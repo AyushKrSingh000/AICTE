@@ -1,5 +1,5 @@
 # AICTE
-This is a project Made By Ayush Kumar Singh And ParamdeepSingh Gill(@paramdeepsinghgill).
+#This is a project Made By Ayush Kumar Singh And ParamdeepSingh Gill(@paramdeepsinghgill).
 
 Description:Background: Teachers, students are encouraged to take up research and innovate.
 Current accreditation, ranking and grading norms emphasizes research work and publications
